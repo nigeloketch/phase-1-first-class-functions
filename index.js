@@ -1,11 +1,11 @@
-
+//declare the variable returnFirstTwoDrivers with const
 const  returnFirstTwoDrivers = function anonymousFunction([]){
-    return (['Antonia', 'Nuru']);
+    return (['calvo', 'elvis']);
     
     }
     
     const  returnLastTwoDrivers = function anonymousFunction([]){
-        return (['Amari', 'Mo']);
+        return (['roy', 'jakes']);
     
     }
     const selectingDrivers =[returnFirstTwoDrivers,returnLastTwoDrivers];
